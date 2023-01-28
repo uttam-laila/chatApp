@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205543271273",
+    "project_id": "chatapp-57f95",
+    "storage_bucket": "chatapp-57f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205543271273:android:8abe0db19747d896732bf8",
+        "android_client_info": {
+          "package_name": "com.uttamlaila.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205543271273-3g6aqq38dpk05em77smml24j34u7ftkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uttamlaila.chat_app",
+            "certificate_hash": "dbbb2d3befa80ec7711204de669667d189f7966b"
+          }
+        },
+        {
+          "client_id": "205543271273-cm5iqc53gum9b4h4q3fdlni9ilp3b6k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiuODucUiRyHQdh5_pPxOKQSamGQu7Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205543271273-cm5iqc53gum9b4h4q3fdlni9ilp3b6k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
