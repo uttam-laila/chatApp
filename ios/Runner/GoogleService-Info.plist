@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>205543271273-n8np15sinlgd2jmk6bl62vrmuldgiotq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.205543271273-n8np15sinlgd2jmk6bl62vrmuldgiotq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>205543271273-3g6aqq38dpk05em77smml24j34u7ftkj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDolZXS_M92MSEyUkO2JC6rn9kr2Adjj7c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>205543271273</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uttamlaila.chatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-57f95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-57f95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:205543271273:ios:f7d3141d19acff71732bf8</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatapp-57f95-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "205543271273",
+    "firebase_url": "https://chatapp-57f95-default-rtdb.firebaseio.com",
     "project_id": "chatapp-57f95",
     "storage_bucket": "chatapp-57f95.appspot.com"
   },
@@ -22,7 +23,7 @@
           }
         },
         {
-          "client_id": "205543271273-cm5iqc53gum9b4h4q3fdlni9ilp3b6k4.apps.googleusercontent.com",
+          "client_id": "205543271273-2pjmqbhj7ibkhkrktu0tjk5hsd958900.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -35,8 +36,15 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "205543271273-cm5iqc53gum9b4h4q3fdlni9ilp3b6k4.apps.googleusercontent.com",
+              "client_id": "205543271273-2pjmqbhj7ibkhkrktu0tjk5hsd958900.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "205543271273-n8np15sinlgd2jmk6bl62vrmuldgiotq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uttamlaila.chatApp"
+              }
             }
           ]
         }
